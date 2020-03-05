@@ -11,22 +11,23 @@ package javaunit2;
  */
 public class JavaUnit2 {
 
-    static void imprimirMensaje(String sMensaje, int iTamanno, boolean bSalto){
+    static void imprimirMensaje(String sMensaje,  boolean bSalto){
         if (bSalto){
            System.out.println(sMensaje);
         }else {
            System.out.print(sMensaje);
         }
     }
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC", 60, false);
-        imprimirMensaje("", 60, true);
-        imprimirMensaje("Vamos a Diretirnos programando", 60, false);
-        imprimirMensaje("", 60, true);
+        imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC",  false);
+        imprimirMensaje("",  true);
+        imprimirMensaje("Vamos a Diretirnos programando",  false);
+        imprimirMensaje("",  true);
         
     }
     
