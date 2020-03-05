@@ -26,6 +26,8 @@ public class JavaUnit2 {
         imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC", 60, false);
         imprimirMensaje("", 60, true);
         imprimirMensaje("Vamos a Diretirnos programando", 60, false);
+        imprimirMensaje("", 60, true);
+        
     }
     
 }
