@@ -24,9 +24,17 @@ public class JavaUnit2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        imprimirMensaje("_______  ______   _______  _______  ______   ", true);
+        imprimirMensaje("|       ||      | |       ||   _   ||    _ | ", true); 
+        imprimirMensaje("|    ___||  _    ||    ___||  |_|  ||   | || ", true); 
+        imprimirMensaje("|   |___ | | |   ||   | __ |       ||   |_||_", true); 
+        imprimirMensaje("|    ___|| |_|   ||   ||  ||       ||    __  |", true);
+        imprimirMensaje("|   |___ |       ||   |_| ||   _   ||   |  | |", true);
+        imprimirMensaje("|_______||______| |_______||__| |__||___|  |_|", true);
+        
         imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC",  false);
         imprimirMensaje("",  true);
-        imprimirMensaje("Vamos a Diretirnos programando",  false);
+        imprimirMensaje("Vamos a Divertirnos programando",  false);
         imprimirMensaje("",  true);
         
     }
