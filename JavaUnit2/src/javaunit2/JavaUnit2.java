@@ -26,7 +26,7 @@ public class JavaUnit2 {
         // TODO code application logic here
         imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC",  false);
         imprimirMensaje("",  true);
-        imprimirMensaje("Vamos a Diretirnos programando",  false);
+        imprimirMensaje("Vamos a Divertirnos programando",  false);
         imprimirMensaje("",  true);
         
     }
