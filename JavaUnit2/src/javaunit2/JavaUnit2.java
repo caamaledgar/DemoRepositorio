@@ -32,6 +32,15 @@ public class JavaUnit2 {
         imprimirMensaje("|   |___ |       ||   |_| ||   _   ||   |  | |", true);
         imprimirMensaje("|_______||______| |_______||__| |__||___|  |_|", true);
         
+        
+        imprimirMensaje("________    _     ", true);              
+        imprimirMensaje("_(_______)  | |   ", true);               
+        imprimirMensaje("_ _____   __| | ____ _____  ____ ", true);
+         imprimirMensaje("_|  ___) / _  |/ _  (____ |/ ___)", true);
+        imprimirMensaje("_| |____( (_| ( (_| / ___ | |    ", true);
+//        imprimirMensaje("_|_______)____|\___ \_____|_|   ", true); 
+        imprimirMensaje("_             (_____|     ", true);       
+                
         imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC",  false);
         imprimirMensaje("",  true);
         imprimirMensaje("Vamos a Divertirnos programando",  false);
