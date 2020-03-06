@@ -33,6 +33,8 @@ public class JavaUnit2 {
 
     }
 
+    static void primerBanner(){
+    }
     
     /**
      * @param args the command line arguments
