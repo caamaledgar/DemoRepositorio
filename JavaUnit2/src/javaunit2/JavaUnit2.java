@@ -10,6 +10,9 @@ package javaunit2;
  * @author edgar
  */
 public class JavaUnit2 {
+    /**
+     * Función para imprimir mensaje de texto, con salto de linea y sin salto de linea
+     */
 
     static void imprimirMensaje(String sMensaje,  boolean bSalto){
         if (bSalto){
