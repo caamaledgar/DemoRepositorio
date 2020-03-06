@@ -45,6 +45,8 @@ public class JavaUnit2 {
         imprimirMensaje("",  true);
         imprimirMensaje("Vamos a Divertirnos programando",  false);
         imprimirMensaje("",  true);
+        imprimirMensaje("Trabajando con la herramienta GitHub",  false);
+        imprimirMensaje("Para probar trabajar en equipo",  false);
         
     }
     
