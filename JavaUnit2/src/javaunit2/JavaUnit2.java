@@ -34,13 +34,6 @@ public class JavaUnit2 {
     }
 
     static void primerBanner(){
-    }
-    
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
         imprimirMensaje("_______  ______   _______  _______  ______   ", true);
         imprimirMensaje("|       ||      | |       ||   _   ||    _ | ", true); 
         imprimirMensaje("|    ___||  _    ||    ___||  |_|  ||   | || ", true); 
@@ -48,6 +41,13 @@ public class JavaUnit2 {
         imprimirMensaje("|    ___|| |_|   ||   ||  ||       ||    __  |", true);
         imprimirMensaje("|   |___ |       ||   |_| ||   _   ||   |  | |", true);
         imprimirMensaje("|_______||______| |_______||__| |__||___|  |_|", true);
+    }
+    
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
         
         segundoBanner();
                 
