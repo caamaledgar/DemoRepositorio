@@ -50,7 +50,8 @@ public class JavaUnit2 {
         imprimirMensaje("|_______||______| |_______||__| |__||___|  |_|", true);
         
         segundoBanner();
-                
+        primerBanner();
+        
         imprimirMensaje("Hola Comunidad de Desarrolladores de la UAC",  false);
         imprimirMensaje("",  true);
         imprimirMensaje("Vamos a Divertirnos programando",  false);
