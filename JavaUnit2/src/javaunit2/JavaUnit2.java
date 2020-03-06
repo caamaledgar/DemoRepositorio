@@ -21,6 +21,9 @@ public class JavaUnit2 {
            System.out.print(sMensaje);
         }
     }
+
+    static void primerBanner(){
+    }
     
     /**
      * @param args the command line arguments
